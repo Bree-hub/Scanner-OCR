@@ -1,0 +1,14 @@
+click
+imutils
+opencv-python
+rembg
+waitress
+paddlepaddle 
+paddleocr 
+numpy 
+pillow 
+matplotlib 
+pandas 
+fastapi 
+uvicorn 
+scipy
